@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "63737d54bdb30329b6cf9bd9"
+  },
+  "id_categoria": 1,
+  "nombre": "Pizza_autor"
+},{
+  "_id": {
+    "$oid": "63737d85bdb30329b6cf9bda"
+  },
+  "id_categoria": 2,
+  "nombre": "Pizza_diet"
+}]

@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "63737a92bdb30329b6cf9bd6"
+  },
+  "id_producto": 2,
+  "tipo": [
+    "P: pizza"
+  ],
+  "id_categoria": 1,
+  "nombre": "Pizza pesa",
+  "descripcion_producto": "Base pizza, salsa tomate, queso, tomate. peperoni",
+  "imagen": "/home/imagenes/pizza.jpg",
+  "precio": 11
+},{
+  "_id": {
+    "$oid": "63737a99bdb30329b6cf9bd7"
+  },
+  "id_producto": 1,
+  "tipo": [
+    "H: hamburguesa"
+  ],
+  "nombre": "Hamburguesa esa",
+  "descripcion_producto": "Pan, cebolla, queso chedar, 250g carne, tomate, cebolla",
+  "imagen": "/home/imagenes/hamburguesa.jpg",
+  "precio": 10
+},{
+  "_id": {
+    "$oid": "63737a9fbdb30329b6cf9bd8"
+  },
+  "id_producto": 3,
+  "tipo": [
+    "B: bebida"
+  ],
+  "id_categoria": 1,
+  "nombre": "Cerveza",
+  "descripcion_producto": "Cerveza mockup",
+  "imagen": "/home/imagenes/cerveza.jpg",
+  "precio": 3
+}]

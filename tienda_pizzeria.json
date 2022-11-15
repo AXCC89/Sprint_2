@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "00000001bdb30329b6cf9bd2"
+  },
+  "id_tienda": 1,
+  "id_empleado_tienda": 1,
+  "direccion": "Av. Artigas, 25, 2",
+  "codigo_postal": "08013",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": "938 22 67 91"
+},{
+  "_id": {
+    "$oid": "00000002bdb30329b6cf9bd3"
+  },
+  "id_tienda": 2,
+  "id_empleado_tienda": 2,
+  "direccion": "Plaza John Lenon, 5, 3, B",
+  "codigo_postal": "08024",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": "931 98 70 09"
+},{
+  "_id": {
+    "$oid": "00000003bdb30329b6cf9bd4"
+  },
+  "id_tienda": 3,
+  "id_empleado_tienda": 3,
+  "direccion": "Carrer San Joan, 5",
+  "codigo_postal": "08035",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": "939 27 04 57"
+}]

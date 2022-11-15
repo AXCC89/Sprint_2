@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6373d667bdb30329b6cf9be1"
+  },
+  "id_comanda": 1,
+  "id_tienda": 1,
+  "id_cliente": 1,
+  "id_empleado": 1,
+  "fecha_venta": {
+    "$date": {
+      "$numberLong": "1666270800796"
+    }
+  },
+  "id_detalle_comanda": [
+    1,
+    2
+  ],
+  "tipo_entrega": [
+    "L: local"
+  ],
+  "total_comanda": 44
+},{
+  "_id": {
+    "$oid": "6373d681bdb30329b6cf9be2"
+  },
+  "id_comanda": 2,
+  "id_tienda": 1,
+  "id_cliente": 3,
+  "id_empleado": 3,
+  "fecha_venta": {
+    "$date": {
+      "$numberLong": "1666278000796"
+    }
+  },
+  "id_detalle_comanda": [
+    3,
+    4
+  ],
+  "tipo_entrega": [
+    "D: domicilio"
+  ],
+  "total_comanda": 46
+},{
+  "_id": {
+    "$oid": "6373d696bdb30329b6cf9be3"
+  },
+  "id_comanda": 3,
+  "id_tienda": 3,
+  "id_cliente": 2,
+  "id_empleado": 1,
+  "fecha_venta": {
+    "$date": {
+      "$numberLong": "1666294200796"
+    }
+  },
+  "id_detalle_comanda": [
+    5,
+    6
+  ],
+  "tipo_entrega": [
+    "L: local"
+  ],
+  "total_comanda": 28
+}]

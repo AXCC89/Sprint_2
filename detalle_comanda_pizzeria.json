@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6373d7cabdb30329b6cf9be4"
+  },
+  "id_detalle_comanda": 1,
+  "id_comanda": 1,
+  "id_producto": 1,
+  "cantidad_producto": 3,
+  "precio_unidad": 10
+},{
+  "_id": {
+    "$oid": "6373d86ebdb30329b6cf9be5"
+  },
+  "id_detalle_comanda": 2,
+  "id_comanda": 1,
+  "id_producto": 2,
+  "cantidad_producto": 1,
+  "precio_unidad": 11
+},{
+  "_id": {
+    "$oid": "6373d875bdb30329b6cf9be6"
+  },
+  "id_detalle_comanda": 3,
+  "id_comanda": 2,
+  "id_producto": 3,
+  "cantidad_producto": 2,
+  "precio_unidad": 3
+},{
+  "_id": {
+    "$oid": "6373d87bbdb30329b6cf9be7"
+  },
+  "id_detalle_comanda": 4,
+  "id_comanda": 2,
+  "id_producto": 1,
+  "cantidad_producto": 4,
+  "precio_unidad": 10
+},{
+  "_id": {
+    "$oid": "6373d883bdb30329b6cf9be8"
+  },
+  "id_detalle_comanda": 5,
+  "id_comanda": 3,
+  "id_producto": 2,
+  "cantidad_producto": 2,
+  "precio_unidad": 11
+},{
+  "_id": {
+    "$oid": "6373d88bbdb30329b6cf9be9"
+  },
+  "id_detalle_comanda": 6,
+  "id_comanda": 3,
+  "id_producto": 3,
+  "cantidad_producto": 2,
+  "precio_unidad": 3
+}]

@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "6373da9dbdb30329b6cf9bea"
+  },
+  "id_vendedor": 1,
+  "id_comanda": [
+    1,
+    3
+  ],
+  "nombre": "Super",
+  "apellido": "Perez",
+  "nif": "57147799K",
+  "telefono": "938 22 67 91",
+  "tipo_empleado": [
+    "C: cocinero"
+  ]
+},{
+  "_id": {
+    "$oid": "6373db4cbdb30329b6cf9beb"
+  },
+  "id_vendedor": 2,
+  "id_comanda": [
+    0
+  ],
+  "nombre": "Santos",
+  "apellido": "Britto",
+  "nif": "68204294W",
+  "telefono": "931 98 70 09",
+  "tipo_empleado": [
+    "R: repartidor"
+  ]
+},{
+  "_id": {
+    "$oid": "6373db53bdb30329b6cf9bec"
+  },
+  "id_vendedor": 3,
+  "id_comanda": [
+    3
+  ],
+  "nombre": "Romera",
+  "apellido": "Casas",
+  "nif": "31648602G",
+  "telefono": "939 27 04 57",
+  "tipo_empleado": [
+    "R: repartidor"
+  ]
+}]

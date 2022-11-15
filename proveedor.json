@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "636b9125fd654c96235edbd7"
+  },
+  "id_proveedor": 1,
+  "nombre": "Saks_Asia",
+  "direccion": [
+    "Av. Artigas",
+    "25",
+    "2",
+    "A",
+    "Barcelona",
+    "08014",
+    "España"
+  ],
+  "telefono": "938226791",
+  "fax": "934 10 31 43",
+  "nif": "57147799K"
+},{
+  "_id": {
+    "$oid": "636b9125fd654c96235edbd8"
+  },
+  "id_proveedor": 2,
+  "nombre": "M&A_Asia",
+  "direccion": [
+    "Plaza John Lenon",
+    "5",
+    "3",
+    "B",
+    "Barcelona",
+    "08024",
+    "España"
+  ],
+  "telefono": "931987009",
+  "fax": "931987000",
+  "nif": "68204294W"
+},{
+  "_id": {
+    "$oid": "636b9125fd654c96235edbd9"
+  },
+  "id_proveedor": 3,
+  "nombre": "ANIS_Spain",
+  "direccion": [
+    "Carrer San Joan",
+    "2",
+    "1",
+    "C",
+    "Barcelona",
+    "08035",
+    "España"
+  ],
+  "telefono": "939270457",
+  "fax": "939270455",
+  "nif": "31648602G"
+}]

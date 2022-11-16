@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6374a50efd00a9d67eb17604"
+  },
+  "id_producto": 1,
+  "id_proveedor": 2,
+  "marcas": "dolce",
+  "tipo": "lentes",
+  "graduacion_izquierda": 0.5,
+  "graduacion_derecha": 0.5,
+  "montura": [
+    "F: flotante"
+  ],
+  "color_montura": [
+    "V: verde"
+  ],
+  "color_vidrio_izquierda": [
+    "T: transparente"
+  ],
+  "color_vidrio_derecha": [
+    "T: transparente"
+  ],
+  "precio": 100
+},{
+  "_id": {
+    "$oid": "6374a56dfd00a9d67eb17605"
+  },
+  "marcas": "vogue",
+  "id_producto": 2,
+  "id_proveedor": 1,
+  "tipo": "lentes",
+  "graduacion_izquierda": 1.5,
+  "graduacion_derecha": 1.5,
+  "montura": [
+    "P: pasta"
+  ],
+  "color_montura": [
+    "A: azul"
+  ],
+  "color_vidrio_izquierda": [
+    "R: rosado"
+  ],
+  "color_vidrio_derecha": [
+    "R: rosado"
+  ],
+  "precio": 100
+},{
+  "_id": {
+    "$oid": "6374a57efd00a9d67eb17606"
+  },
+  "marcas": "hells",
+  "id_producto": 3,
+  "id_proveedor": 1,
+  "tipo": "lentes",
+  "graduacion_izquierda": 2.5,
+  "graduacion_derecha": 2.5,
+  "montura": [
+    "M: metalica"
+  ],
+  "color_montura": [
+    "B: blanco"
+  ],
+  "color_vidrio_izquierda": [
+    "R: fuego"
+  ],
+  "color_vidrio_derecha": [
+    "R: fuego"
+  ],
+  "precio": 200
+}]

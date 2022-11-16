@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "637355dabdb30329b6cf9bbe"
+  },
+  "id_cliente": 1,
+  "id_producto": 1,
+  "nombre": "Isaac Curto ",
+  "direccion": "Av. Artigas, 25, 2, null, Barcelona, 08014, España",
+  "telefono": "939 11 42 23",
+  "email": "anis-7527@yopmail.com",
+  "nif": "57147799K",
+  "tipo_cliente": [
+    "F: frecuente"
+  ],
+  "recomendacion": [
+    "si_aplica"
+  ],
+  "id_recomendacion": [
+    2
+  ]
+},{
+  "_id": {
+    "$oid": "63735641bdb30329b6cf9bbf"
+  },
+  "id_cliente": 2,
+  "id_producto": 2,
+  "nombre": "Ana Banana",
+  "direccion": "Plaza John Lenon, 5, 3, B, Barcelona, 08024, España",
+  "telefono": "936 19 25 21",
+  "email": "bananaforever-8544@yopmail.com",
+  "nif": "68204294W",
+  "tipo_cliente": [
+    "F: frecuente"
+  ],
+  "recomendacion": [
+    "no_aplica"
+  ],
+  "id_recomendacion": [
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "63735699bdb30329b6cf9bc0"
+  },
+  "id_cliente": 2,
+  "id_producto": 2,
+  "nombre": "Hulk Perez",
+  "direccion": "Carrer San Joan, null, null, Barcelona, 08035, España",
+  "telefono": "935 83 25 02",
+  "email": "hulk-3966@yopmail.com",
+  "nif": "31648602G",
+  "tipo_cliente": [
+    "N: nuevo"
+  ],
+  "recomendacion": [
+    "si_aplica"
+  ],
+  "id_recomendacion": [
+    1
+  ]
+}]

@@ -1,0 +1,38 @@
+use restaurante
+show collections
+01. db.resturante_ny.find()
+
+0.2 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: 1, cuisine: 1  }
+)
+
+0.3 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: 1, cuisine: 1, _id:0  }
+)
+
+0.4 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: 1, address:1, zipcode:1 , _id:0  }
+)
+
+0.5 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: "Bronx"}
+)
+
+0.6 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: "Bronx"}
+).limit(5)
+
+0.7 db.resturante_ny.find(
+    { },
+    { restaurant_id: 1, name: 1, borough: "Bronx"}
+).limit(5).skip(5)
+
+
+
+
+
